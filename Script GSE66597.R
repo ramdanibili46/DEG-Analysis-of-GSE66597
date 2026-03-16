@@ -4,7 +4,7 @@
 #Tujuan: Mengidentifikasi Differentially Expressed Genes (DEG)
 
 # Memanggil library
-#   Differential expression analysis with limma
+# Differential expression analysis with limma.
 library(GEOquery)
 library(limma)
 library(umap)
